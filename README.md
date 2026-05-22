@@ -1,49 +1,95 @@
-# Hi, I'm Andrew 👋
-Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+# Hi, I'm [Your Name] 👋
+
+Unity Developer & Game Designer with 6+ years of teaching experience and professional background in game development since 2022. I specialize in creating engaging gameplay mechanics, multiplayer systems, and optimized game architectures.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true"/>
+   </a>
+   <a href="https://github.com/YOUR_GITHUB_USERNAME">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact"/>
+   </a>
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+   <a href="https://t.me/Nir_Va">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
 </p>
 
+<p align='center'>
+   📫 How to reach me: <a href='https://t.me/Nir_Va'>@Nir_Va on Telegram</a>
+</p>
 
-### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+---
+
+## 🔑 Key Highlights
+
+*   Unity Developer since 2022 with commercial project experience in game design and programming
+*   Master's degree in Robotics and Automation from South Ural State University
+*   6+ years of teaching experience: programming, robotics, game design for children and adults (online/offline)
+*   Developed prototype games with advanced mechanics: inventory system, crafting, NPC state machines, resource gathering, and shooter mechanics (Rust-style)
+*   Experience in creating educational virtual laboratory setups: physics experiments, electrical circuits, bending/tensile testing simulations
+*   Focused on code quality: proven design patterns, scalability, and maintainability
+
+---
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
 
-### My opensource projects
+### Game Development
+*   **Engine:** Unity (2022+)
+*   **Languages:** C#, Lua (Roblox)
+*   **Networking:** Photon (PUN/Fusion), multiplayer optimization
+*   **Animation & Cinematics:** Cinemachine, Timeline
+*   **UI:** Unity UI, custom Inspector editors, UI-menus
+*   **Optimization:** Unity Profiler, performance tuning
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+### Gameplay Systems
+*   First-person controller & advanced movement systems
+*   Inventory and crafting systems
+*   NPC state machines and AI behavior
+*   Resource gathering and economy mechanics
+*   Shooting mechanics and combat systems
+
+### Tools & Practices
+*   Version Control: Git, GitHub
+*   Design Patterns: MVC, Observer, Command, State
+*   Level Design: landscape development, environment blocking, gameplay pacing
+*   3D Graphics Basics: UV unwrapping, normal maps, lighting calculations
+
+### Preferred Genres
+*   FPS Shooter | MOBA | Survival
+
+---
+
+## 🎮 Featured Projects
+
+*   **Survival Prototype (Rust-style)** — Implemented core mechanics: advanced movement, inventory/crafting system, NPC state machines, resource gathering, and shooting. Focused on gameplay balance and player retention.
+*   **Virtual Laboratory Simulator** — Commercial project: designed interactive physics and electricity experiments (bending/tensile testing, circuit assembly). Emphasized UX clarity and educational mechanics.
+*   **Multiplayer Framework** — Built networking layer using Photon, optimized via Profiler, implemented synchronization for player actions and game state.
+*   **Playable Ads Pipeline** — Created lightweight, engaging ad experiences from scratch to attract players and improve conversion metrics.
+
+---
+
+## 📚 Teaching & Mentorship
+
+*   Conducted courses in programming, robotics, and game design for diverse age groups
+*   Emphasize practical code review and iterative feedback to develop strong engineering habits
+*   Experienced in both online and offline educational formats
+
+---
+
+## 🚀 Current Focus
+
+*   Developing scalable multiplayer architectures in Unity
+*   Exploring procedural generation techniques for level design
+*   Optimizing game performance for target hardware
+*   Creating data-driven gameplay systems with analytics integration
+
+---
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   <a href="https://github.com/YOUR_GITHUB_USERNAME/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=DE002D">
    </a>
 </div>

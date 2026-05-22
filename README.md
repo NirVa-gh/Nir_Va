@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Amdrey 👋
 
 Unity Developer & Game Designer with 6+ years of teaching experience and professional background in game development since 2022. I specialize in creating engaging gameplay mechanics, multiplayer systems, and optimized game architectures.
 

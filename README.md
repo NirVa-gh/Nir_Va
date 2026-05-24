@@ -21,11 +21,11 @@ Unity Developer & Game Designer with 6+ years of teaching experience and profess
 *   6+ years of teaching experience: programming, robotics, game design for children and adults (online/offline)
 *   Passionate about building immersive game worlds: level design, landscape development, environment blocking, and gameplay pacing
 *   Developed prototype games with advanced mechanics: inventory system, crafting, NPC state machines, resource gathering, and shooter mechanics (Rust-style)
-*   Experience in creating educational virtual laboratory setups: physics experiments, electrical circuits
+*   Experience in creating educational virtual laboratory setups
 *   Focused on code quality: proven design patterns, scalability, and maintainability
 
 > 🎨 **I love building things in games** — from core mechanics to full environments.  
-> [View my game screenshots and level design portfolio](YOUR_LINK_HERE)
+> [View my game screenshots and level design portfolio]([https://disk.yandex.ru/a/O73dbYtMSu_0NA])
 
 ---
 
@@ -33,20 +33,13 @@ Unity Developer & Game Designer with 6+ years of teaching experience and profess
 
 ### Game Development
 *   **Engine:** Unity (2022+, URP)
-*   **Languages:** C#, Lua 
-*   **Architecture:** Zenject (DI), ScriptableObjects for data-driven design, MVC, Observer, State patterns
+*   **Languages:** C#, Lua, Python
+*   **Architecture:** Zenject (DI), ScriptableObjects, MVC, Observer, State patterns
 *   **Networking:** Photon (PUN/Fusion), multiplayer optimization
 *   **Animation & Cinematics:** Cinemachine, Timeline
 *   **UI:** Unity UI, custom Inspector editors, UI-menus
 *   **Tweening:** Tween Service / DOTween for smooth animations
 *   **Optimization:** Unity Profiler, memory management, performance tuning
-
-### Gameplay Systems
-*   First-person controller & advanced movement systems (slide, coyote jump, inertia, physics-based motion)
-*   Inventory and crafting systems powered by ScriptableObjects
-*   NPC state machines and AI behavior trees
-*   Resource gathering, economy mechanics, and item decomposition
-*   Shooting mechanics, hit detection, and combat balancing
 
 ### Tools & Practices
 *   Version Control: Git, GitHub
@@ -57,6 +50,12 @@ Unity Developer & Game Designer with 6+ years of teaching experience and profess
 ### Preferred Genres
 *   FPS Shooter | MOBA | Survival
 
+### Gameplay Systems
+*   First-person controller & advanced movement systems (slide, coyote jump, inertia, physics-based motion)
+*   Inventory and crafting systems powered by ScriptableObjects
+*   NPC state machines and AI behavior trees
+*   Resource gathering, economy mechanics, and item decomposition
+*   Shooting mechanics, hit detection, and combat balancing
 ---
 
 ## 🎮 Featured Projects
@@ -83,13 +82,6 @@ Unity Developer & Game Designer with 6+ years of teaching experience and profess
 - Profiled and optimized network traffic to minimize bandwidth usage and latency spikes
 - Integrated with existing gameplay systems for seamless multiplayer experience
 
-### Playable Ads Pipeline
-*Unity | Marketing | Lightweight Builds*
-- Created engaging, lightweight ad experiences from scratch to improve user acquisition
-- Designed mechanics that communicate core gameplay in under 30 seconds
-- A/B tested variants to optimize conversion rates and player retention
-- Exported optimized builds with minimal asset footprint for fast loading
-
 ### UI System with Custom Editor Tools
 *Unity Editor | C# | Tooling*
 - Developed custom Inspector editors for designers to configure UI menus without code
@@ -102,6 +94,7 @@ Unity Developer & Game Designer with 6+ years of teaching experience and profess
 - Integrated character animations, camera transitions, and audio cues
 - Created reusable timeline clips for rapid iteration on narrative content
 
+etc.
 ---
 
 ## 📚 Teaching & Mentorship
@@ -125,6 +118,6 @@ Unity Developer & Game Designer with 6+ years of teaching experience and profess
 
 <div align="center" style="margin: 40px 0">
    <a href="https://https://github.com/NirVa-gh/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=DE002D">
+       <img width="175px" src="https://github.com/NirVa-gh&color=DE002D">
    </a>
 </div>

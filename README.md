@@ -116,8 +116,3 @@ etc.
 
 ---
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://https://github.com/NirVa-gh/github-profile-views-counter">
-       <img width="175px" src="https://github.com/NirVa-gh&color=DE002D">
-   </a>
-</div>
